@@ -1,5 +1,5 @@
 {
-    ForceReopenFrequencyInSeconds: 30,
-    TextExtractors: {
+    "ForceReopenFrequencyInSeconds": 30,
+    "https://github.com/SenseNet/sensenet/tree/master/src/nuget/snadmin/install-services/import/System/SettingsTextExtractors": {
     }
 }
